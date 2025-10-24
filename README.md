@@ -13,11 +13,11 @@
 
 ## DESCRIPCIÓN
 
-Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solo electronica discreta la cual esta compuesta por el lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran los digitos correspondientes en los displays de 7 segmentos. Esta conformado por un total de 6 displays para marcar los segundos, minutos y horas.
+Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solo lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran los displays de 7 segmentos. Un total de 6 displays para marcar los segundos, minutos y horas.
 ## Informe
 
 [Reloj Digital](https://docs.google.com/document/d/12YXhhFJf7GPLBze2eZ5sYaiuNMOwRFxj9prBwNTrKLU/edit?pli=1&tab=t.0#heading=h.a97jr9uy2bgi)
-. Este enlace lleva a un documento de google en el que se encuentra más informacion sobre este projecto junto con imagenes explicativas y vistas previas.
+. Este enlase lleva a un documento de word en el que se encuentra más informacion sobre este projecto junto con imagenes explicativas y vistas previas.
 ## Funcionamiento
 El funcionamiento de este reloj se basa en el circuito integrado LM555, configurado como oscilador astable, que genera una serie de pulsos eléctricos aproximadamente cada un segundo. Estos pulsos son enviados al 74LS90, que actúa como contador decimal y convierte los pulsos en una salida binaria. Después, esta señal binaria pasa al 74LS47, que la decodifica y la transforma en señales para encender los segmentos correspondientes del display de 7 segmentos, mostrando así los números de forma digital. 
 
@@ -27,24 +27,24 @@ El LED conectado al circuito también parpadea al ritmo de los pulsos, sirviendo
 
 Los botones conectados uno a los displays de los segundos y otro conectado a los minutos. Su funcion es que una vez al ser pulsados, este pulso contara tambien como si fuera un pulso del LM555, es decir, una vez que se pulsa el numero del display pasara al siguiente respectivamente, funcionando como un reloj manual y esta para setiar el reloj a la hora exacta al de la hora actual.
 
-(La alimentacion vendria mediante un cable conectado a un transformador el cual iria conectado a un toma corriente de 220v.)
+(La alimentacion vendria mediante un camble conectado a un transformador el cual iria conectado a un toma o 220v.)
 ## Modelo 3D
 En este projecto se utilizo Autodesk, programa el cual estoy mas acostumbrado a utilizar ademas de ser muy utilizadas a la hora de hacer diseños 3D, gracias a que este ofrece una amplia gama de software como AutoCAD, Fusion 360, Inventor y 3ds Max, utilizados en sectores como la ingeniería, la arquitectura, el entretenimiento y el diseño de productos.
 
 El modelo 3D esta compuesto por dos partes principales: El piso y El curpo. 
 
-El piso o la parte inferior, es un rectangulo compuesto por cuatro agujeros, uno en cada esquina, por donde se ingresarian los tornillos los cuales unirian las dos piezas. Además de tener otros cuatro agujeros mas con un desnivel para ubicar la placa y mantenerla en el lugar y dejando un muy pequeño espacio entre los dos para las patas o sobresalientes de los componentes de la misma.
+El piso o la inferior, es un rectangulo compuesto por cuatro agujeros, uno en cada esquina, por donde se ingresarian los tornillos los cuales unirian las dos puesas. Además de tenes otros cuatro agujeros mas con un desnivel para ubicar la placa y mantenerla en el lugar y dejando un muy pequeño espacio entre los dos para las patas o sobresalientes de los componentes de la misma.
 
 [![piso.png](https://i.postimg.cc/j2MdpcXf/piso.png)](https://postimg.cc/0KJsmph5)
 
-El Cuerpo tambien cuenta con los mismos huecos para tener mas rijides en la uniones de estas tres partes (placa, piso, cuerpo). Tambien consta con un aguero en un costado para permitir la salida del cable de alimentación.
+El Cuepo tambien consta con los mismos hucos para tener mas rijides en la uniendos de estas tres partes (placa, piso, cuerpo).Tambien consta con un aguero en un costado para permitir la salida del cable de alimentación.
 
 [![cuerpo.png](https://i.postimg.cc/26PPVZSJ/cuerpo.png)](https://postimg.cc/34FLqWpC)
 
-Además tiene 6 agujeros rectangulares para permitir la vista de los displays de 7 segmento, con una pequeña separacion entre cada uno y otra entre cada grupo de dos, para formar los segundos, minutos y horas, cuyos grupos abajo les sigue sus respectivo unidad marcada como un corte en el cuerpo. No solo eso sino que más abajo tiene dos agueros donde irian ubicados los botones. Los displays y los botones deberan ir pegados con silicona para que mantengan su lugar.
+Además tiene 6 agujeros rectangulares para permitir la vista de los displays de 7 segmento, con una pequeña separacion entrecada uno y otra entre cada grupo de dos, para formal los segundos, minutos y horas, cuyos grupos abajo les sigue sus respectivo unidad marcada como un corte en el cuerpo. Tambien, más abajo tiene dos agueros donde irian ubicados los botones. Los displays y los botones deberan ir pegados con silicona para que mantengan su lugar.
 
 [![cuerpo.png](https://i.postimg.cc/j2SJnL3h/cuerpo.png)](https://postimg.cc/LYGsr6pq)
 
+En la carpeta carcasa, se encontran los archivos de estas pieza tredes en diferentes tipos de archivos desde .slt, donde se podran mandar a imprimir directamente, .funsio, asta .step. 
 ## Desmontaje de la carcasa
-
 [![desamblage.png](https://i.postimg.cc/nc8M49Qy/desamblage.png)](https://a360.co/3W90Zk7)
