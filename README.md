@@ -13,7 +13,7 @@
 
 ## DESCRIPCIÓN
 
-Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solo lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran los displays de 7 segmentos. Un total de 6 displays para marcar los segundos, minutos y horas.
+Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solo electronica discreta la cual esta compuesta por el lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran los digitos correspondientes en los displays de 7 segmentos. Esta conformado por un total de 6 displays para marcar los segundos, minutos y horas.
 ## Informe
 
 [Reloj Digital](https://docs.google.com/document/d/12YXhhFJf7GPLBze2eZ5sYaiuNMOwRFxj9prBwNTrKLU/edit?pli=1&tab=t.0#heading=h.a97jr9uy2bgi)
