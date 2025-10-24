@@ -6,7 +6,7 @@
 - [@Ulises Basabe](https://github.com/ulisesbasabeibarra-eng)
 - [@Facundo Dominguez](https://github.com/facundodominguez1)
 - [@Ramiro Trejo](https://github.com/RamiiTrejo)
-- [@Rodrigo Benitez]()
+- [@Rodrigo Benitez](https://github.com/rodrigobenitez17)
 - [@Maximo Paez]()
 
 
@@ -37,7 +37,7 @@ El piso o la parte inferior, es un rectangulo compuesto por cuatro agujeros, uno
 
 [![piso.png](https://i.postimg.cc/j2MdpcXf/piso.png)](https://postimg.cc/0KJsmph5)
 
-El Cuerpo tambien consta con los mismos huecos para tener mas rijides en la uniones de estas tres partes (placa, piso, cuerpo). Tambien consta con un aguero en un costado para permitir la salida del cable de alimentación.
+El Cuerpo tambien cuenta con los mismos huecos para tener mas rijides en la uniones de estas tres partes (placa, piso, cuerpo). Tambien consta con un aguero en un costado para permitir la salida del cable de alimentación.
 
 [![cuerpo.png](https://i.postimg.cc/26PPVZSJ/cuerpo.png)](https://postimg.cc/34FLqWpC)
 
