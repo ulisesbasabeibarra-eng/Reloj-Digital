@@ -44,5 +44,7 @@ El Cuepo tambien consta con los mismos hucos para tener mas rijides en la uniend
 Además tiene 6 agujeros rectangulares para permitir la vista de los displays de 7 segmento, con una pequeña separacion entrecada uno y otra entre cada grupo de dos, para formal los segundos, minutos y horas, cuyos grupos abajo les sigue sus respectivo unidad marcada como un corte en el cuerpo. Tambien, más abajo tiene dos agueros donde irian ubicados los botones. Los displays y los botones deberan ir pegados con silicona para que mantengan su lugar.
 
 [![cuerpo.png](https://i.postimg.cc/j2SJnL3h/cuerpo.png)](https://postimg.cc/LYGsr6pq)
+
 ## Desmontaje de la carcasa
+
 [![desamblage.png](https://i.postimg.cc/nc8M49Qy/desamblage.png)](https://a360.co/3W90Zk7)
