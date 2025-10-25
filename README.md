@@ -29,7 +29,7 @@ Los botones conectados uno a los displays de los segundos y otro conectado a los
 
 (La alimentacion vendria mediante un cable conectado a un transformador el cual iria conectado a un toma corriente)
 ## Modelo 3D
-En este projecto se utilizo Autodesk, programa el cual estoy mas acostumbrado a utilizar ademas de ser muy utilizadas a la hora de hacer diseños 3D, gracias a que este ofrece una amplia gama de software como AutoCAD, Fusion 360, Inventor y 3ds Max, utilizados en sectores como la ingeniería, la arquitectura, el entretenimiento y el diseño de productos.
+En este projecto se utilizo Autodesk, plataforma de software el cual estoy mas acostumbrado a utilizar ademas de ser muy utilizadas a la hora de hacer diseños 3D, gracias a que este ofrece una amplia gama de software como AutoCAD, Fusion 360, Inventor y 3ds Max, utilizados en sectores como la ingeniería, la arquitectura, el entretenimiento y el diseño de productos.
 
 El modelo 3D esta compuesto por dos partes principales: El piso y El cuerpo. 
 
@@ -48,3 +48,7 @@ Además tiene 6 agujeros rectangulares para permitir la vista de los displays de
 En la carpeta carcasa, se encontran los archivos de estas pieza 3D en diferentes tipos de archivos desde .stl, donde se podran mandar a imprimir directamente, .fusion, asta .step. 
 ## Desmontaje de la carcasa
 [![desamblage.png](https://i.postimg.cc/nc8M49Qy/desamblage.png)](https://a360.co/3W90Zk7)
+
+
+## ESQUEMATICO Y PCB
+
