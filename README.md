@@ -13,13 +13,13 @@
 
 ## DESCRIPCIÓN
 
-Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solo lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran los displays de 7 segmentos. Un total de 6 displays para marcar los segundos, minutos y horas.
+Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solamente electronica discreta como el lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran gracias a los integrados 74LS47 y 74LS90 que los displays de 7 segmentos marquen una hora determinada. Un total de 6 displays para marcar los segundos, minutos y horas.
 ## Informe
 
 [Reloj Digital](https://docs.google.com/document/d/12YXhhFJf7GPLBze2eZ5sYaiuNMOwRFxj9prBwNTrKLU/edit?pli=1&tab=t.0#heading=h.a97jr9uy2bgi)
-. Este enlase lleva a un documento de word en el que se encuentra más informacion sobre este projecto junto con imagenes explicativas y vistas previas.
+. Este enlace lleva a un documento de google en el que se encuentra más informacion sobre este projecto junto con imagenes explicativas y vistas previas.
 ## Funcionamiento
-El funcionamiento de este reloj se basa en el circuito integrado LM555, configurado como oscilador astable, que genera una serie de pulsos eléctricos aproximadamente cada un segundo. Estos pulsos son enviados al 74LS90, que actúa como contador decimal y convierte los pulsos en una salida binaria. Después, esta señal binaria pasa al 74LS47, que la decodifica y la transforma en señales para encender los segmentos correspondientes del display de 7 segmentos, mostrando así los números de forma digital. 
+El funcionamiento de este reloj se basa en el circuito integrado LM555, configurado como oscilador astable, que genera una serie de pulsos eléctricos aproximadamente de 1 Hz por  segundo. Estos pulsos son enviados al 74LS90, que actúa como contador decimal y convierte los pulsos en una salida binaria. Después, esta señal binaria pasa al 74LS47, que la decodifica y la transforma en señales para encender los segmentos correspondientes del display de 7 segmentos, mostrando así los números de forma digital. 
 
 El potenciómetro permite ajustar la frecuencia del LM555, aumentando o disminuyendo la velocidad con que se generan los pulsos que llegan al 74LS90 (Es decir, la velocidad con que se cambian los números en el display).
 
@@ -37,14 +37,14 @@ El piso o la inferior, es un rectangulo compuesto por cuatro agujeros, uno en ca
 
 [![piso.png](https://i.postimg.cc/j2MdpcXf/piso.png)](https://postimg.cc/0KJsmph5)
 
-El Cuepo tambien consta con los mismos hucos para tener mas rijides en la uniendos de estas tres partes (placa, piso, cuerpo).Tambien consta con un aguero en un costado para permitir la salida del cable de alimentación.
+El Cuepo tambien consta con los mismos huecos para tener mas rijides en la uniones de estas tres partes (placa, piso, cuerpo).Tambien consta con un agujero en un costado para permitir la salida del cable de alimentación.
 
 [![cuerpo.png](https://i.postimg.cc/26PPVZSJ/cuerpo.png)](https://postimg.cc/34FLqWpC)
 
-Además tiene 6 agujeros rectangulares para permitir la vista de los displays de 7 segmento, con una pequeña separacion entrecada uno y otra entre cada grupo de dos, para formal los segundos, minutos y horas, cuyos grupos abajo les sigue sus respectivo unidad marcada como un corte en el cuerpo. Tambien, más abajo tiene dos agueros donde irian ubicados los botones. Los displays y los botones deberan ir pegados con silicona para que mantengan su lugar.
+Además tiene 6 agujeros rectangulares para permitir la vista de los displays de 7 segmento, con una pequeña separacion entre cada uno y otra entre cada grupo de dos, para formar los segundos, minutos y horas, cuyos grupos abajo les sigue sus respectivo unidad marcada como un corte en el cuerpo. Tambien, más abajo tiene dos agueros donde irian ubicados los botones. Los displays y los botones deberan ir adheridos con silicona para que mantengan su lugar.
 
 [![cuerpo.png](https://i.postimg.cc/j2SJnL3h/cuerpo.png)](https://postimg.cc/LYGsr6pq)
 
-En la carpeta carcasa, se encontran los archivos de estas pieza tredes en diferentes tipos de archivos desde .slt, donde se podran mandar a imprimir directamente, .funsio, asta .step. 
+En la carpeta carcasa, se encontran los archivos de estas pieza 3D en diferentes tipos de archivos desde .stl, donde se podran mandar a imprimir directamente, .fusion, asta .step. 
 ## Desmontaje de la carcasa
 [![desamblage.png](https://i.postimg.cc/nc8M49Qy/desamblage.png)](https://a360.co/3W90Zk7)
