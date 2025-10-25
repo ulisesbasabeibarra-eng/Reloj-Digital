@@ -27,17 +27,17 @@ El LED conectado al circuito también parpadea al ritmo de los pulsos, sirviendo
 
 Los botones conectados uno a los displays de los segundos y otro conectado a los minutos. Su funcion es que una vez al ser pulsados, este pulso contara tambien como si fuera un pulso del LM555, es decir, una vez que se pulsa el numero del display pasara al siguiente respectivamente, funcionando como un reloj manual y esta para setiar el reloj a la hora exacta al de la hora actual.
 
-(La alimentacion vendria mediante un camble conectado a un transformador el cual iria conectado a un toma o 220v.)
+(La alimentacion vendria mediante un cable conectado a un transformador el cual iria conectado a un toma corriente)
 ## Modelo 3D
 En este projecto se utilizo Autodesk, programa el cual estoy mas acostumbrado a utilizar ademas de ser muy utilizadas a la hora de hacer diseños 3D, gracias a que este ofrece una amplia gama de software como AutoCAD, Fusion 360, Inventor y 3ds Max, utilizados en sectores como la ingeniería, la arquitectura, el entretenimiento y el diseño de productos.
 
-El modelo 3D esta compuesto por dos partes principales: El piso y El curpo. 
+El modelo 3D esta compuesto por dos partes principales: El piso y El cuerpo. 
 
-El piso o la inferior, es un rectangulo compuesto por cuatro agujeros, uno en cada esquina, por donde se ingresarian los tornillos los cuales unirian las dos puesas. Además de tenes otros cuatro agujeros mas con un desnivel para ubicar la placa y mantenerla en el lugar y dejando un muy pequeño espacio entre los dos para las patas o sobresalientes de los componentes de la misma.
+El piso o la inferior, es un rectangulo compuesto por cuatro agujeros, uno en cada esquina, por donde se ingresarian los tornillos los cuales unirian las dos piezas. Además de tener otros cuatro agujeros más con un desnivel para ubicar la placa y mantenerla en el lugar y dejando un muy pequeño espacio entre los dos para las patas o sobresalientes de los componentes de la misma.
 
 [![piso.png](https://i.postimg.cc/j2MdpcXf/piso.png)](https://postimg.cc/0KJsmph5)
 
-El Cuepo tambien consta con los mismos huecos para tener mas rijides en la uniones de estas tres partes (placa, piso, cuerpo).Tambien consta con un agujero en un costado para permitir la salida del cable de alimentación.
+El Cuepo tambien consta con los mismos huecos para tener mas rigidez en la uniones de estas tres partes (placa, piso, cuerpo).Tambien consta con un agujero en un costado para permitir la salida del cable de alimentación.
 
 [![cuerpo.png](https://i.postimg.cc/26PPVZSJ/cuerpo.png)](https://postimg.cc/34FLqWpC)
 
