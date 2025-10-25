@@ -52,3 +52,4 @@ En la carpeta carcasa, se encontran los archivos de estas pieza 3D en diferentes
 
 ## ESQUEMATICO Y PCB
 
+<img width="854" height="478" alt="Image" src="https://github.com/user-attachments/assets/fbb61b67-4b68-4317-9876-c2df52b87b54" />
