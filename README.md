@@ -57,14 +57,14 @@ Mediante el software de uso libre KICAD se realizo el Esquematico y la PCB, el c
 <img width="1166" height="472" alt="Image" src="https://github.com/user-attachments/assets/2fe2e1ce-725d-4ecf-b6c3-cec5f590df42" />
 <img width="1029" height="443" alt="Image" src="https://github.com/user-attachments/assets/da2bae4e-fded-4b33-98fb-efeb1cbf1594" />
 
-. Aqui se muestran las conexiones realizadas en el diseño esquematico, para luego realizar la PCB, teniendo varias imagenes de referencia, haciendo una facil conprension del mismo. 
+Aqui se muestran las conexiones realizadas en el diseño esquematico, para luego realizar la PCB, teniendo varias imagenes de referencia, haciendo una facil conprension del mismo. 
 
 <img width="854" height="478" alt="Image" src="https://github.com/user-attachments/assets/fbb61b67-4b68-4317-9876-c2df52b87b54" />
 
-. En esta imagen se muestra como seria el diseño de la PCB realizada en una plaqueta doble faz (o doble cara)
+En esta imagen se muestra como seria el diseño de la PCB realizada en una plaqueta doble faz (o doble cara)
 
 <img width="620" height="343" alt="Image" src="https://github.com/user-attachments/assets/c3acfaf1-9bae-438f-bd53-5a9cdbc47576" />
 
 <img width="608" height="342" alt="Image" src="https://github.com/user-attachments/assets/efb3ad70-9470-46b4-9d89-265b36cc5e56" />
 
-. Aqui se observa como se vería el diseño de la plaqueta en 3D para poder dimensionar los componentes y facilitar la comprension de las conexiones
+Aqui se observa como se vería el diseño de la plaqueta en 3D para poder dimensionar los componentes y facilitar la comprension de las conexiones
