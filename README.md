@@ -50,21 +50,4 @@ En la carpeta carcasa, se encontran los archivos de estas pieza 3D en diferentes
 [![desamblage.png](https://i.postimg.cc/nc8M49Qy/desamblage.png)](https://a360.co/3W90Zk7)
 
 
-## ESQUEMATICO Y PCB
-Mediante el software de uso libre KICAD se realizo el Esquematico y la PCB, el cual con suma facilidad permite diseñar el esquema y conexiones de componentes para luego diseñarlo en la PCB, y esta posee una interfaz muy intuitiva y una amplia variedad de diseños de componentes, facilitando el diseño de las plaquetas.
-
-<img width="751" height="587" alt="Image" src="https://github.com/user-attachments/assets/0cb5d100-1d19-4b39-ac4e-345e0c3e11d0" />
-<img width="1166" height="472" alt="Image" src="https://github.com/user-attachments/assets/2fe2e1ce-725d-4ecf-b6c3-cec5f590df42" />
-<img width="1029" height="443" alt="Image" src="https://github.com/user-attachments/assets/da2bae4e-fded-4b33-98fb-efeb1cbf1594" />
-
-Aqui se muestran las conexiones realizadas en el diseño esquematico, para luego realizar la PCB, teniendo varias imagenes de referencia, haciendo una facil conprension del mismo. 
-
-<img width="854" height="478" alt="Image" src="https://github.com/user-attachments/assets/fbb61b67-4b68-4317-9876-c2df52b87b54" />
-
-En esta imagen se muestra como seria el diseño de la PCB realizada en una plaqueta doble faz (o doble cara)
-
-<img width="620" height="343" alt="Image" src="https://github.com/user-attachments/assets/c3acfaf1-9bae-438f-bd53-5a9cdbc47576" />
-
-<img width="608" height="342" alt="Image" src="https://github.com/user-attachments/assets/efb3ad70-9470-46b4-9d89-265b36cc5e56" />
-
-Aqui se observa como se vería el diseño de la plaqueta en 3D para poder dimensionar los componentes y facilitar la comprension de las conexiones
+ se observa como se vería el diseño de la plaqueta en 3D para poder dimensionar los componentes y facilitar la comprension de las conexiones
