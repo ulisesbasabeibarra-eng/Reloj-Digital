@@ -16,6 +16,8 @@
 Un reloj digital sin utilizar un microcontrolador o web para establecer el tiempo. Utilizando solamente electronica discreta como el lm555, cuyo componente debe de estar en modo astable para general pulsos electronicos que estableceran gracias a los integrados 74LS47 y 74LS90 que los displays de 7 segmentos marquen una hora determinada. Un total de 6 displays para marcar los segundos, minutos y horas.
 ## Informe
 
+[Video en proteus](https://www.youtube.com/watch?v=-MJHPHdGoc4)
+
 [Reloj Digital](https://docs.google.com/document/d/12YXhhFJf7GPLBze2eZ5sYaiuNMOwRFxj9prBwNTrKLU/edit?pli=1&tab=t.0#heading=h.a97jr9uy2bgi)
 . Este enlace lleva a un documento de google en el que se encuentra más informacion sobre este projecto junto con imagenes explicativas y vistas previas.
 ## Funcionamiento
